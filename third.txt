@@ -1,4 +1,0 @@
-
-
-This is the third new file...
->>>>>>> mybranch
